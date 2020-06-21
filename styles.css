@@ -141,6 +141,10 @@ header{
     padding: 24px;
 }
 
+.card_content{
+    text-align: center;
+}
+
 .card_info{
     display: grid;
     grid-template-columns: 1fr 1fr;

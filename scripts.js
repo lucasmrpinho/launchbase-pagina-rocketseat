@@ -14,6 +14,7 @@ for(let card of cards){
 document.querySelector('.modal_close').addEventListener("click", function(){
     modalOverlay.classList.remove("active")
     modal.classList.remove("maximized")
+    modalOverlay.querySelector("iframe").src = ""
 })
 
 document.querySelector('.modal_max').addEventListener('click', () => {
