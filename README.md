@@ -4,7 +4,7 @@
     </br>
 </h2>
 
-<img alt="paginagif" src="assets\paginamodulo2.gif" width="1000px" />
+<img alt="paginagif" src="assets\paginamodulo2.gif"/>
 
 
 ## 📋 Índice
@@ -29,7 +29,7 @@ Esse repositório foi criado para a primeira página que fui desafiado a criar d
 Dentro desse módulo foram abordados diversos conteúdos dentro de HTML, CSS e JavaScript. Desde as partes mais básicas do CSS e HTML até manipular elementos da DOM usando JS e adicionar conteúdo externo com iframe. A página contém informações sobre a empresa Rocketseat e seus cursos. O maior desafio foi implementar o modal contendo em seu interior as respectivas páginas de cada curso, podendo ser maximizada ou fechada.
 
 
-<img alt="paginagif" src="assets\printpaginamodulo2.png" width="1000px" />
+<img alt="paginagif" src="assets\printpaginamodulo2.png" />
 
 ---
 
